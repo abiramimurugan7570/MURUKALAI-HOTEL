@@ -34,7 +34,7 @@ function Contact() {
 
   <p>
     <a
-      href="tel:+919876543210"
+      href="tel:+918667447570"
       className="contact-link"
     >
       +91 8667447570
